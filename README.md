@@ -1,2 +1,1 @@
-# p25
-crumpled paper
+# CP-2
